@@ -2,5 +2,10 @@
 *.pyc
 *.lock
 
+
 #folders 
 .vscode
+bin
+lib
+lib64
+include
